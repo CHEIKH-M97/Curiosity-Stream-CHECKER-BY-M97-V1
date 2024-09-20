@@ -1,4 +1,4 @@
-# 🚀 Gagnant365 Checker
+# 🚀 CuriosityStream Checker
 
 CuriosityStream Checker is a Command Line Interface (CLI) program developed by **CHEIKH-M97**. This tool is designed for testing multiple combos against the CuriosityStream website's API, providing an efficient way to streamline the process.
 
